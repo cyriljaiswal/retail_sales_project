@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Analysis — SQL Project
+# Retail Sales Analysis — SQL Project
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=flat-square&logo=postgresql)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
