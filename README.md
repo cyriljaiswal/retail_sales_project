@@ -212,7 +212,7 @@ group by category;
 ### Q10 — Orders by Time of Day Shift
 
 ```sql
-with hourly_sales as (
+with hourly_sale as (
     select *,
         case
             when extract(hour from sale_time) < 12              then 'Morning'
