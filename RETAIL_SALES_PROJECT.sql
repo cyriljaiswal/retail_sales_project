@@ -197,7 +197,7 @@ group by category
 
 -- Q.10 Write a SQL query to create each shift and number of orders (Example Morning <=12, Afternoon Between 12 & 17, Evening >17)
 
-with hourly_sales
+with hourly_sale
 as
 (
 select *,
